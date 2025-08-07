@@ -1,1 +1,3 @@
 # Data-Science-Bootcamp
+In 2024, I participated in an intensive 12-day Data Science Bootcamp organized by my university. During this program, I gained a solid understanding of what data analysis is and how it plays a crucial role in extracting insights from raw data. Through hands-on sessions and collaborative learning, we developed multiple projects based on real-world datasets—covering key steps such as data cleaning, visualization, interpretation, and reporting. Each project allowed me to strengthen my skills in Python and popular data science libraries while enhancing my analytical thinking. This experience was a significant milestone in my journey toward becoming a data-driven problem solver.
+
